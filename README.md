@@ -1,2 +1,2 @@
 # data_science
-projetos de data science
+repositório para os projetos de data science
